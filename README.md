@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tharunkanna14
-- 👀 I’m interested in IT/Networking/Automation/Cloud/Docker/Kubernetes/Cyber Security
+- 👀 I’m interested in IT/Networking/Automation/Software Development/Cloud/DevOps
 - 🌱 I’m currently pursuing my bachelor's in Information Technology
 - 💞️ I’m looking to collaborate on Kubernetes Projects, Research, Open Source
 - 📫 How to reach me:-

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tharunkanna14
-- 👀 I’m interested in IT/Networking/Automation/Software Development/Cloud/DevOps
-- 🌱 I’m currently pursuing my bachelor's in Information Technology
-- 💞️ I’m looking to collaborate on Kubernetes Projects, Research, Open Source
+- 👀 I’m interested in Software Development/Cloud/DevOps/Site Reliability
+- 🌱 I’m currently a Software Developer at Oracle
+- 💞️ I’m looking to collaborate on Java, Spring, SpringBoot, MySQL, Docker, Kubernetes Projects, Research, Open Source
 - 📫 How to reach me:-
                       LinkedIn : https://www.linkedin.com/in/tharunkanna/
 

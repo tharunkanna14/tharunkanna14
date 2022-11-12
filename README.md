@@ -26,7 +26,6 @@
 <img align="left" alt="Kubernetes" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 <img align="left" alt="RedHat" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Kali Linux" width="36px" src="https://icons8.com/icon/101665/kali-linux" style="padding-right:10px;" />
 <img align="left" alt="Terraform" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
 <br />
 <br />

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tharunkanna14
+- 👋 Hi, I’m Tharun Kanna
 - I’m currently a Software Developer 2 at Oracle
 - I’m looking to collaborate on MySQL and Kubernetes
 - 📫 How to reach me : <a href = "https://www.linkedin.com/in/tharunkanna/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" style="max-width: 100%;padding-right: 25px;"/></a>
